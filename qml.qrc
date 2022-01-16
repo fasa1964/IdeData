@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>FDataMenu.qml</file>
+        <file>FDataButton.qml</file>
+        <file>FDataInfo.qml</file>
+        <file>MessageForm.qml</file>
+        <file>FDataInputForm.qml</file>
+        <file>FTextInput.qml</file>
+        <file>FSwitchButton.qml</file>
+        <file>FDelegateView.qml</file>
+    </qresource>
+</RCC>
